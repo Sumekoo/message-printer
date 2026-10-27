@@ -1,6 +1,6 @@
 public class MessagePrinter {
     public static String getWelcomeMessage() {
-        return "Welcome to Git and GitHub";
+        return "Welcome! Learning GitHub is fun and easy!";
     }
     public static String getDateMessage() {
         return "Today is: " + java.time.LocalDate.now();
